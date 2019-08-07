@@ -15,9 +15,9 @@ http://localhost:5000/calculate_vector
 
 in Body pass paramter strings
 
-key           value
+key  :   strings 
 
-strings       "we are sorry for the inconvenience",
+value      "we are sorry for the inconvenience",
               "we are sorry for the delay",
               "we regret for your inconvenience",
               "we don't deliver to baner region in pune",
